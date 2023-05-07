@@ -13,5 +13,9 @@
 #### My associated servers
 - <a href="https://discord.gg/a2FDvAra4Z" class="button">```GX Team```</a>
 
+#### My friends developpers
+- <a href="https://github.com/JustGodWork" class="button">```JustGodWork```</a>
+- <a href="https://github.com/EvanAddDev" class="button">```EvanAddDev```</a>
+
 ---
 `1.0` `Nishikoto` `FiveM` `Discord`
