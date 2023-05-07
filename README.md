@@ -11,7 +11,6 @@
 
 #### My associated servers
 - <a href="https://discord.gg/a2FDvAra4Z" class="button">```GX Team```</a>
-- <a href="https://discord.gg/exelity" class="button">```Exelity RP```</a>
 
 ---
 `1.0` `Nishikoto` `FiveM` `Discord`
