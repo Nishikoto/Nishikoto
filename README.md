@@ -1,6 +1,7 @@
 # Nishikoto
 
 #### My recent repositories
+- <a href="https://github.com/Nishikoto/rageui" class="button">```RageUI```</a>
 - <a href="https://github.com/Nishikoto/nSupermarket" class="button">```nSupermarket```</a>
 - <a href="https://github.com/Nishikoto/nBurgerShot" class="button">```nBurgershot```</a>
 
