@@ -6,7 +6,7 @@
 
 #### My languages
 - <a href="https://devdocs.io/javascript/" class="button">```Javascript```</a>
-- <a href="https://www.lua.org/docs.html" class="button">```Lua```</a>
+- <a href="http://www.lua.org/manual/5.4/" class="button">```Lua```</a>
 - <a href="https://github.com/Nishikoto/rageui" class="button">```RageUI```</a> `Soon public`
 
 #### My associated servers
