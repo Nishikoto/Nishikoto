@@ -14,7 +14,7 @@
 ## 📋 Divers
 <a href="https://github.com/Nishikoto/jClassLib" class="button">```jClassLib```</a> <a href="https://github.com/Nishikoto/jZoneLib" class="button">```jZoneLib```</a> <a href="https://github.com/Nishikoto/jBlipLib" class="button">```jBlipLib```</a> <a href="https://github.com/Nishikoto/Base-Bot-Discord" class="button">```Base-Bot-Discord```</a> <a href="https://github.com/manups4e/ScaleformUI" class="button">```ScaleformUI```</a>
 
-## Marques et logos associé
+## Personnes, marques et logos associé
 <h3 align="center"><a href="#"><img src="https://media.discordapp.net/attachments/1129679497013231716/1134569078556729474/logo-def-sf-blue.png"/ width="100"></a> <a href="https://discord.gg/a2FDvAra4Z"><img src="https://media.discordapp.net/attachments/1121903702710685748/1122284020743553264/logo-v3-sf-blue.png"/ width="100"></a> <a href="https://github.com/JustGodWork"><img src="https://avatars.githubusercontent.com/u/85418813?v=4"/ width="100"></a> <a href="https://github.com/EvanAddDev"><img src="https://avatars.githubusercontent.com/u/127199166?v=4"/ width="100"></a></h3>
 
 ---
