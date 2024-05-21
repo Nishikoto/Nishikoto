@@ -3,7 +3,7 @@
 - **`Im a French developper`**
 - **`Im currently learning C# and Spanish`**
 
-## 📖 My Works
+## 📖 My Public Works
 - [**`Histeria`**](https://github.com/Nishikoto/histeria)
 
 ## 📚 I work with
@@ -28,4 +28,4 @@
 </h3>
 
 ---
-`Nishikoto` `v22`
+`Nishikoto` `v22.1`
