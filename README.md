@@ -2,6 +2,7 @@
 - **`Im 21 years old`**
 - **`Im a French developper`**
 - **`Im currently learning C# and Spanish`**
+- **`I created`** <a href="https://github.com/orgNishikoto">```my organization```</a>
 
 ## 📖 My Public Works
 - [**`Histeria`**](https://github.com/Nishikoto/histeria)
@@ -14,9 +15,7 @@
 - [**`jLegacy`**](https://github.com/JustGodWork/jLegacy)
 
 ## ✨ Divers
-<a href="https://github.com/JustGodWork/jClassLib" class="button">```jClassLib```</a>
-<a href="https://github.com/JustGodWork/jZoneLib" class="button">```jZoneLib```</a>
-<a href="https://github.com/JustGodWork/jBlipLib" class="button">```jBlipLib```</a>
+<a href="https://github.com/JustGodWork/lib" class="button">```lib```</a>
 <a href="https://github.com/EvanAddDev/Base-Bot-Discord" class="button">```Base-Bot-Discord```</a>
 <a href="https://github.com/manups4e/ScaleformUI" class="button">```ScaleformUI```</a>
 <a href="https://github.com/JustGodWork/jLegacy" class="button">```jLegacy```</a>
