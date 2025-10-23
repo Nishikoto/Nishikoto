@@ -10,8 +10,6 @@
   
 </div>
 
----
-
 # <p align="center">📚 My knowledge</p>
 
 <div align="center">
@@ -54,22 +52,18 @@
   
 </div>
 
----
-
 # <p align="center">📊 Stats</p>
 
 <p align="center">
     <img 
-      height="170em"
+      height="150em"
       src="https://github-readme-stats.vercel.app/api?username=Nishikoto&count_private=true&show_icons=true&theme=transparent"
     />
     <img 
-      height="170em"
+      height="150em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishikoto&theme=transparent&layout=compact"
     />
 </p>
-
----
 
 # <p align="center">🫅🏼 My friends</p>
 
@@ -77,8 +71,6 @@
   <a href="https://github.com/JustGodWork"><img src="https://avatars.githubusercontent.com/u/85418813?v=4"/ width="80"></a>
   <a href="https://github.com/EvanAddDev"><img src="https://avatars.githubusercontent.com/u/127199166?v=4"/ width="80"></a>
 </h3>
-
----
 
 <div align="center">
 
