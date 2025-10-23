@@ -74,6 +74,6 @@
 
 <div align="center">
 
-  `Nishikoto` `v23`
+  `Nishikoto` `v23.1`
   
 </div>
